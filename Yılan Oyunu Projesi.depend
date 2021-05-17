@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621155246 source:c:\users\tayfun\desktop\yýlan oyunu projesi\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
